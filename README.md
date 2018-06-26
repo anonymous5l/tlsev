@@ -1,6 +1,6 @@
 ## libevent tls server example
 
-understanding openssl with libevent
+understanding openssl with libevent edge trigger mode
 
 ### deps:
 * libevent
