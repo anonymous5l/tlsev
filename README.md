@@ -1,6 +1,6 @@
 ## libevent tls server example
 
-understanding openssl with libevent async tcp
+understanding openssl with libevent
 
 ### deps:
 * libevent
